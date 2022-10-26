@@ -1,0 +1,4 @@
+Erik Roman Romero Flores - 10A - 190811 - IDGS
+
+Es un mapa de JavaScript, ayuda a ejecutar el programa y saber el orden de ejecución, se acomodan en pilas y por lo general son llamadas como LIFO (Last In First Out).
+Stacktrace: Al utilizar callstack podemos revisar el flujo de algún archivo js para identificar cual función fue que nos dio el error, sabremos de que línea a que línea fue realizando el proceso y al final podremos llegar al problema.
